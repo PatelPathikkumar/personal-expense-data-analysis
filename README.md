@@ -1,4 +1,4 @@
-#Personal Expense Data Analysis
+# Personal Expense Data Analysis
 
 Personal Expense Data Analysis (Excel)
 Project Overview
